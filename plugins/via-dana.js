@@ -6,8 +6,8 @@ Hay👋, ingin melanjutkan pembayaran?
 💰 *Pembayaran*
 • Via: Dana 
 • Nomor: 088215689772
-• A/n: Fangz
-• Mitra: Fangz BOT
+• A/n: Riel
+• Mitra: Riel BOT
 • Metode pembayaran: Online ( ~Cod~ )
 
 💰 *Bayar melalui aplikasi TokoBot*
