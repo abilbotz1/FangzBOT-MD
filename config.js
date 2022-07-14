@@ -45,33 +45,33 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
-global.sig = 'https://instagram.com/fangzganz?igshid=YmMyMTA2M2Y='
-global.sgh = 'https://github.com/Fangzbotz2007'
-global.sgc = 'https://chat.whatsapp.com/HpxyS6b45SoGIKG7LHddiM'
+global.sig = 'https://chat.whatsapp.com/JqzZbqyCvBa6tXzLH1P3hZ'
+global.sgh = 'https://github.com/RielTod'
+global.sgc = 'https://chat.whatsapp.com/JqzZbqyCvBa6tXzLH1P3hZ'
 global.sdc = 'https://s.id/Fangzganz'
 global.snh = 'https://nhentai.net/g/365296/'
 
 /*============== PAYMENT ==============*/
-global.pdana = '088215689772'
-global.povo = '088215689772'
-global.pgopay = '088215689772'
-global.ppulsa = '088215689772'
-global.ppulsa2 = '0895394988123'
+global.pdana = ''
+global.povo = ''
+global.pgopay = ''
+global.ppulsa = '083813417529'
+global.ppulsa2 = ''
 global.psaweria = 'https://saweria.co/FangzBot'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '62895394988123'
-global.nomorown = '6288215689772'
-global.namebot = ' 「 FANGZ BOT ⁩㊣ 」'
-global.nameown = 'Fangz Ganz'
+global.nomorbot = '6283112471048'
+global.nomorown = '6282146218274'
+global.namebot = ' 「 RIEL BOT ⁩㊣ 」'
+global.nameown = 'Riel Ganz'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6288215689772'],
-  ['62895336282144'],
-  ['6288215689772'],
-  ['6288215689772', 'Fangz Ganz', true]
+  ['6282146218274'],
+  ['6282146218274'],
+  ['6282146218274'],
+  ['6282146218274', 'Riel Ganz', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -117,21 +117,21 @@ global.APIKeys = { // APIKey Here
 
 /*============== WATERMARK ==============*/
 //GANTI SETERAH MU
-global.wm = '                「 Fangz BOT あ⁩ 」' //Main Watermark
-global.wm2 = '¸„٭⊹•~⍣°”ˆ˜¨ FangzBOT-Md¨˜ˆ”°⍣~•⊹٭„¸'
-global.wm3 = '⫹⫺ Fangz 𝗕𝗢𝗧'
+global.wm = '                「 Riel BOT あ⁩ 」' //Main Watermark
+global.wm2 = '¸„٭⊹•~⍣°”ˆ˜¨ RielBOT-Md¨˜ˆ”°⍣~•⊹٭„¸'
+global.wm3 = '⫹⫺ Riel 𝗕𝗢𝗧'
 global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
-global.titlebot = '𝗥𝗣𝗚 | Whatsapp ʙᴏᴛ By FANGZ'
-global.author = '       ┄┄┄┅┅❑ FANGZ ❑┅┅┄┄┄'
+global.titlebot = '𝗥𝗣𝗚 | Whatsapp ʙᴏᴛ By Riel'
+global.author = '       ┄┄┄┅┅❑ Riel-2022 ❑┅┅┄┄┄'
 
 
 /*============== LOGO ==============*/
 // INI JUGA GANTI SETERAH MU
-global.thumb = 'https://telegra.ph/file/e535be94a86c77e1eb4ee.jpg' //Main Thumbnail
-global.thumb2 = 'https://telegra.ph/file/0f572ab6a7180cc9c52ee.jpg'
-global.thumbbc = 'https://telegra.ph/file/0f572ab6a7180cc9c52ee.jpg' //For broadcast
-global.giflogo = 'https://telegra.ph/file/4da26de483d484af684e8.mp4'
+global.thumb = 'https://telegra.ph/file/d6223e052abccdc64292a.jpg' //Main Thumbnail
+global.thumb2 = 'https://telegra.ph/file/d6223e052abccdc64292a.jpg'
+global.thumbbc = 'https://telegra.ph/file/d6223e052abccdc64292a.jpg' //For broadcast
+global.giflogo = 'https://telegra.ph/file/d6223e052abccdc64292a.mp4'
 
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
 
@@ -146,7 +146,7 @@ global.dxlsx = 'application/vnd.openxmlformats-officedocument.spreadsheetml.shee
 global.dpdf = 'application/pdf'
 global.drtf = 'text/rtf'
 
-global.thumbdoc = 'https://telegra.ph/file/fcc6e7fa49bd81c0e43e4.jpg'
+global.thumbdoc = 'https://telegra.ph/file/d6223e052abccdc64292a.jpg'
 
 /*=========== FAKE SIZE ===========*/
 global.fsizedoc = '99999999999999' // default 10TB
@@ -177,7 +177,7 @@ global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
 global.stickpack = '.'
-global.stickauth = `By Fangz BOT\nwa.me/${global.nomorbot}`
+global.stickauth = `By Riel BOT\nwa.me/${global.nomorbot}`
 
 global.multiplier = 38 // The higher, The harder levelup
 
